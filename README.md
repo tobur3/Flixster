@@ -1,5 +1,5 @@
 # Flixster
-Assignment 1
+Assignment 1 showing movies on a Flixster app in the emulator
 # Flix
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
