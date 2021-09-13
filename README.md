@@ -1,5 +1,10 @@
-# Flixster
+# Assignment 1- *Flixster*
 Assignment 1 showing movies on a Flixster app in the emulator
+
+Sumbitted by: **Torry Burton**
+
+Time spent: **4** hours spent total
+
 # Flix
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
